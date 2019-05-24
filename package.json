@@ -1,0 +1,28 @@
+{
+  "name": "buildweek-better-friend-reminders-be--lanier",
+  "version": "1.0.0",
+  "description": "build week back end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/better-friend-reminders-app-team/BuildWeek-Better-Friend-Reminders-BE--Lanier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/better-friend-reminders-app-team/BuildWeek-Better-Friend-Reminders-BE--Lanier/issues"
+  },
+  "homepage": "https://github.com/better-friend-reminders-app-team/BuildWeek-Better-Friend-Reminders-BE--Lanier#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.0",
+    "helmet": "^3.18.0",
+    "jest": "^24.8.0",
+    "jest-dom": "^3.2.2",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.0"
+  }
+}
