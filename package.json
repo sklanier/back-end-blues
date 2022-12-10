@@ -18,7 +18,7 @@
   "homepage": "https://github.com/better-friend-reminders-app-team/BuildWeek-Better-Friend-Reminders-BE--Lanier#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.0",
+    "express": "^4.17.3",
     "helmet": "^3.18.0",
     "jest": "^24.8.0",
     "jest-dom": "^3.2.2",
